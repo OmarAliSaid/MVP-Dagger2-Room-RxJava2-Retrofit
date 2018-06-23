@@ -37,12 +37,8 @@ ext {
     constraintLayoutVersion = '1.1.0'
     supportLibraryVersion = '27.1.1'
     gsonVersion = '2.8.2'
-
     picasso = '2.5.2'
     picassOkhttp = '2.4.0'
-
-    rx2FastAndroidNetworking = '1.0.1'
-
     retrofit = '2.4.0'
     okhttp = '3.9.0'
     dagger2Version = '2.15'
@@ -50,4 +46,6 @@ ext {
     rxandroidVersion = '2.0.1'
     butterKnifeVersion = '8.8.1'
     timberVersion = '4.5.1'
+    roomDatabase = '1.1.0'
+
 }

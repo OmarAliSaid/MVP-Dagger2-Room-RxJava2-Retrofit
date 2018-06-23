@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">DaggarExample</string>
+    <string name="app_name">Movies</string>
     <string name="label_no_connection">please check your internet connection</string>
 </resources>
